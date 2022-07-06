@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://bunmifash.github.io/Frontend-Mentor-Product-Card-Challenge/)
+- Live Site URL: [Add live site URL here](https://bunmifash.github.io/Frontend-Mentor-Product-Card-Challenge/), (https://chic-dodol-667ac8.netlify.app/)
 
 
 ### Built with

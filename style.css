@@ -126,10 +126,10 @@ svg{
         display: flex;
         justify-content: center;
     }
-   .container{
+   /* .container{
     display: flex;
     max-width: 600px;
-   }
+   } */
    img{
     border-radius: 0;
     border-top-left-radius: 10px;

@@ -70,6 +70,9 @@ img{
     background-color: var(--white);
     padding: 1em;
 }
+h6{
+    letter-spacing: 10px;
+}
 .content h6, p,#strikethrough {
     font-family:'Montserrat',sans-serif;
     font-weight: 500;
